@@ -11,7 +11,9 @@ print("esta será la linea a editar")
 print("Adios")
 print("p")
 
-variable = []
+variable = 3
 
+print("ppppppp")
+print(variable)
 
-opcion = input
+opcion = input()
