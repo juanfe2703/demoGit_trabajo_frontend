@@ -13,3 +13,5 @@ print("p")
 
 variable = []
 
+
+opcion = input
